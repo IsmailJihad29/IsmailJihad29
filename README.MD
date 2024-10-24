@@ -10,9 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoncoc&label=Profile%20views&color=0e75b6&style=flat" alt="ismailhossen jihad" /> </p>
 
-- 🔭 I’m currently working on **Shutter Safari**
+- 🔭 I’m currently working on **Flavor Fusion**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **NextJs**
+[![GitHub Streak](https://streak-stats.demolab.com?user=ismailJihad29&theme=merko)](https://git.io/streak-stats)
 
 - 👨‍💻 All of my projects are available at [https://protfolio-imon.netlify.app/](https://protfolio-imon.netlify.app/)
 
