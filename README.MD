@@ -1,4 +1,5 @@
 <div align="center" width="50">
+<<<<<<< HEAD
 
 <img src="/developer.png"  width="60%"/><br> 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
@@ -7,6 +8,11 @@
 
 <h1 align="center">Hi 👋, I'm Ismail Hossen Jihad</h1>
 <h3 align="center">Loving To code both in life and Apllication </h3>
+=======
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ismailJihad29&theme=merko)](https://git.io/streak-stats)
+>>>>>>> dd1b24ea256f5b0f428c70ac57c601d7da5387da
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoncoc&label=Profile%20views&color=0e75b6&style=flat" alt="ismailhossen jihad" /> </p>
 
